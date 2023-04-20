@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Moje ulubione ksiażki</title>
+  <meta name="description" content="Helena Mierzejewska">
+  <style>
+    table, th, td {
+  border:2px solid black;}
+    body {
+      background-color: #C1C9FC;
+      font-family: fantasy;
+      font-size: 14px;
+      font-weight: 200;
+      color: black
+    }
+
+
+
+
+    h1 {
+      color: #0A186F;
+      font-size: 28px
+    }
+
+    h2 {
+      color: #4C5EC9;
+      font-size: 20px
+    }
+
+    h3 {
+      color: #4C5EC9;
+      font-size: 24px
+    }
+
+    h4{
+      color: #4C5EC9;
+      font-size: 20px
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <h1 align="center">KSIĄŻKI EDUKUJĄ!!!</h1>
+  <p align="center" > Kto nie lubi zanurzyć się w dobrej książce, odkrywając losy bohaterów, zachwycać się błyskotliwym ujęciem problemów przez autorów, płakać i śmiać się razem z postaciami? Pewnym jest, że ludzie ogólnie szukają rozrywki, niestety w obecnych czasach, w których pełno elektroniki i człowiek częściej sięga po nowinki technologiczne nie jest pospolitym spotkać zagorzałego czytelnika. Na tej stronie systematycznie będą ukazywać się krótkie polecajki wartościowych książek, które będą miały za zadanie zachęcić internautów do ich lektury. No to zaczynamy!</p>
+  <table style="width:100%">
+    <tr>
+      <td><a href="https://mistrz-i-malgorzata.ohno22.repl.co">
+  <p1>,,Mistrz i Małgorzata" </p1> </td>
+      <td><p>&#9733;&#9733;&#9733&#9733;&#9734;</p></td>
+    </tr>
+    <tr>
+      <td>  <a href="https://duma-i-uprzedzenie-1.ohno22.repl.co">
+  <p2>,,Duma i uprzedzenie"</p2> </td>
+      <td><p>&#9733;&#9733;&#9733;&#9733;&#9733;</p></td>
+    </tr>
+  <td> <a href="https://opowiadania-bizarne.ohno22.repl.co">
+  <p3>,,Opowiadania bizarne"</p3> </td>
+      <td><p>&#9733;&#9733;&#9733;&#9733;&#9734;</p></td>
+    </tr>
+    <tr>
+      <td><a href="https://stowarzyszenie-umarlych-poetow.ohno22.repl.co">
+  <p4>,,Stowarzyszenie umarłych poetów"</p4>
+     </td><td><p>&#9733;&#9733;&#9733;&#9733;&#9734;</p></td>
+    </tr>
+    <tr>
+      <td><a href="https://zabojstwo-rogera-ackroyda.ohno22.repl.co">
+  <p4>,,Zabójstwo Rogera Ackroyda"</p4>
+     </td><td><p>&#9733;&#9733;&#9733;&#9733;&#9733;</p></td>
+    </tr>
+  </table>
+  
+  <h3 align="center"> Lista kilku ekranizacji powieści: </h3>
+  <h4>
+    <ul>
+<li><a href=https://www.filmweb.pl/serial/Mistrz+i+Ma%C5%82gorzata-1988-7762><p>https://www.filmweb.pl/serial/Mistrz+i+Ma%C5%82gorzata-1988-7762</p></li>
+  <li><a href=https://www.filmweb.pl/film/Duma+i+uprzedzenie-2005-125487><p>https://www.filmweb.pl/film/Duma+i+uprzedzenie-2005-125487</p></li>
+  <li><a href=https://www.filmweb.pl/film/Stowarzyszenie+Umar%C5%82ych+Poet%C3%B3w-1989-1262><p>https://www.filmweb.pl/film/Stowarzyszenie+Umar%C5%82ych+Poet%C3%B3w-1989-1262</p></li>
+
+    </ul>  
+  </h4>
+
+
+</body>
+
+</html>
